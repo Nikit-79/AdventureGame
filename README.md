@@ -21,7 +21,7 @@ g++ -std=c++11 -o AdventureGame capstone.cpp
 
 2. Run the game:
 ```bash
-./adventure
+./AdventureGame
 ```
 
 ## Commands
