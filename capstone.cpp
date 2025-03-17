@@ -372,6 +372,8 @@ int main() {
               << GameColors::cyan << ": Movement                │\n"
               << "│ " << GameColors::yellow << "▶ take" 
               << GameColors::cyan << ": Pick up items                 │\n"
+              << "│ " << GameColors::blue << "▶ look"
+              << GameColors::cyan << ": Look around the room         │\n"
               << "│ " << GameColors::blue << "▶ talk" 
               << GameColors::cyan << ": Speak with characters         │\n"
               << "│ " << GameColors::red << "▶ fight" 
