@@ -16,7 +16,7 @@ A colorful command-line text adventure game written in C++. Journey through a my
 
 1. Compile the game:
 ```bash
-g++ capstone.cpp -o adventure
+g++ -std=c++11 -o AdventureGame capstone.cpp
 ```
 
 2. Run the game:
